@@ -10,8 +10,8 @@
 A URL Shortener for the Office of Enterprise Technology Services that is designed to take users' long and arbitrary URLs and shorten them for easier use and sharing.
 
 ## App Instructions:
-1. Open this [link](https://hacc2021.github.io/MGK/) in a new tab.
-2. Click on the text box at the bottom of the Dialogflow window (Where it says, "Ask Something").
-3. Type a phrase or question and press enter/return.
-4. The bot will respond, either by answering the question, or if it is unable to do so, will say something along the lines of, "I didn't get that. Could you say that again?"
+1. Open this [link](https://hacc2022mgkurlshortener.herokuapp.com/) in a new tab.
+2. Paste a long URL in the text box.
+3. Click the shorten button.
+4. The app will then shorten the URL, right click on the short URL to either open it in a new tab or copy the link.
 5. Repeat steps 2-4 as desired. 
