@@ -1,6 +1,7 @@
 const mongoose = require('mongoose')
 const shortId = require('shortid')
 
+// Creates the schema of the database, for display on the page
 const shortUrlSchema = new mongoose.Schema ({
     full: {
         type: String,
@@ -18,4 +19,5 @@ const shortUrlSchema = new mongoose.Schema ({
     }
 })
 
+// Links the database to the above model 
 module.exports = mongoose.model('ShortUrl', shortUrlSchema)
