@@ -4,10 +4,10 @@
 - [Hunter Von Tungeln](https://github.com/HunterVT)
 - [Jarell Ballesteros](https://github.com/jarellb)
 
-# Challenge: OHA ChatBot
+# Challenge: ETS URL Shortener
 
 ## Description:
-A ChatBot for the Office of Hawaiian Affairs that is designed to take users' questions about various services the OHA has, and answer them.
+A URL Shortener for the Office of Enterprise Technology Services that is designed to take users' long and arbitrary URLs and shorten them for easier use and sharing.
 
 ## App Instructions:
 1. Open this [link](https://hacc2021.github.io/MGK/) in a new tab.
